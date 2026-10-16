@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sharaf</h1>
 
 <p align="center">
-  <em>Computer Science student · Building things one commit at a time</em>
+  <em>Computer Science Student</em>
 </p>
 
 <p align="center">
@@ -14,12 +14,10 @@
 
 ## About Me
 
-- 🎓 Studying **Computer Science**
-- 🔭 Currently working on **CoOpConnect** — a Co-op Application Helper
-- 🌱 Learning and growing through every project
-- 🎮 Built a **Battleships** game in Python — check it out below!
-- 💬 Ask me about Python, HTML, or anything CS-related
-- 📫 Reach me via [GitHub](https://github.com/SharafHussainCS)
+- Studying **Computer Science**
+- Currently working on **CoOpConnect** — a Co-op Application Helper
+- Built a **Battleships** game in Python — check it out below!
+- Ask me about Python, Java, or anything CS-related
 
 ---
 
